@@ -4,6 +4,10 @@
 
 ## All in one:
 
+### Simple Template:
+
+https://github.com/Stormwindsky/Simple-Template-HTML-and-CSS-and-JS-in-one
+
 
 ## HTML only:
 
