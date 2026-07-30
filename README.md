@@ -1,5 +1,5 @@
 # =============================================
-# List of HTML and CSS and JS i made under CC0 1.0
+# List of HTML and CSS and JS i made under Public Domain
 # =============================================
 
 ## All in one:
