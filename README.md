@@ -8,6 +8,10 @@
 
 https://github.com/Stormwindsky/Simple-Template-HTML-and-CSS-and-JS-in-one
 
+### Forum / Blog Template:
+
+https://github.com/Stormwindsky/Forum-Blog-Template
+
 
 ## HTML only:
 
